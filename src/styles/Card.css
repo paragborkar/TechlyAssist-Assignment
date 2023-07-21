@@ -1,0 +1,47 @@
+.main-container{
+    margin: 10px;
+    width: 300px;
+    height: 270px;
+    object-fit: cover;
+    box-shadow: 2px 1px 6px black;
+    border-radius: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color:black;
+}
+.thumbnail img,video{
+    width: 280px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-top: 6px;
+    
+} 
+.channel{
+    display: flex;
+    align-items: center;
+}
+
+.channel h4{
+    margin-top: 0px;
+}
+.channel img{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    margin-top: 0px;
+}
+
+.about{
+   display: flex;
+   margin: 0;
+}
+
+.about p{
+  margin: 0;
+  margin-left: 57px;
+  margin-top: 3px;
+}

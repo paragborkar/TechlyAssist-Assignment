@@ -1,0 +1,71 @@
+.arrow{
+    height: 7vh;
+    box-shadow: 2px 2px 5px;
+    margin-top: 1rem;
+}
+
+.video{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 2px 5px;
+}
+
+.video video{
+    width: 95vw;
+    height: 60vh;
+}
+
+.channel1{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    box-shadow: 2px 2px 5px;
+}
+
+.channel1 p{
+    margin-top: 0;
+}
+
+.channel1 img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 100%;
+}
+
+.likes{
+height: 7vh;
+display: flex;
+align-items: center;
+margin-top: 1rem;
+box-shadow: 2px 2px 5px;
+}
+
+.dislike{
+    margin-left: 1rem;
+    font-size: 24px;
+    margin-right: 0.2rem;
+}
+
+.like{
+    font-size: 24px;
+    margin-right: 0.3rem;
+    margin-left: 1rem;
+}
+.comments{
+display: flex;
+height: 7vh;
+align-items: center;
+box-shadow: 2px 2px 5px;
+}
+
+.comment{
+    font-size: 24px;
+    margin-left: 1rem;
+}
+
+.comments p{
+    margin-left: 1rem;
+    margin-right: 0.3rem;
+}

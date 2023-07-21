@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+
+button{
+    height: 10vh;
+    width: 10vw;
+    background-color: white;
+    margin: 1rem;
+    box-shadow: 2px 2px 4px black;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover{
+    color: white;
+    background-color: rgb(30, 84, 118);
+    height: 11vh;
+    width: 11vw;
+}
+
+.main{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
